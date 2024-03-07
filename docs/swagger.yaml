@@ -1,0 +1,10 @@
+info:
+  contact: {}
+paths:
+  /pets:
+    get:
+      responses: {}
+      summary: List of all pet
+      tags:
+      - pet
+swagger: "2.0"
